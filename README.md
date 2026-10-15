@@ -1,4 +1,4 @@
-# tetris-terminal
+# Tetris Terminal
 
 Uma recriação do Tetris em C, inspirada na primeira versão do jogo.
 
@@ -34,7 +34,7 @@ gcc Tetris.c -o tetris.exe -static
 
 ## Autor
 
-Desenvolvido por **Thiago Costa** ([@thiagojosecosta](https://github.com/thiagojosecosta)), Código livre para estudo e reutilização.
+Desenvolvido por **Thiago Costa** ([@thiagojosecosta](https://github.com/thiagojosecosta)), código livre para estudo e reutilização.
 
 ## Aviso
 
