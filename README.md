@@ -34,7 +34,7 @@ gcc Tetris.c -o tetris.exe -static
 
 ## Autor
 
-Desenvolvido por **Thiago Costa** ([@thiagojosecosta](https://github.com/thiagojosecosta)), sob a [licença MIT](LICENSE).
+Desenvolvido por **Thiago Costa** ([@thiagojosecosta](https://github.com/thiagojosecosta)), Código livre para estudo e reutilização.
 
 ## Aviso
 
