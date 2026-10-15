@@ -2,6 +2,10 @@
 
 Uma recriação do Tetris em C, inspirada na primeira versão do jogo.
 
+<p align="center">
+  <img src="screenshot.png" alt="Tela do tetris-terminal rodando no terminal" width="420">
+</p>
+
 O Tetris original foi criado em 1984 por Alexey Pajitnov, no Centro de Computação da Academia de Ciências da União Soviética, num computador chamado Electronika 60. A máquina não tinha nenhuma capacidade gráfica, então o jogo era feito só de texto.
 
 Escolhi o C porque foi a primeira linguagem de programação com que tive contato quando comecei na faculdade. A ideia do projeto é simplesmente praticar, escrevendo linha por linha, para não esquecer como é colocar a mão na massa. Na era do deslumbre com a IA, nada melhor do que voltar ao simples e funcional, feito com as próprias mãos. Por ser uma linguagem de nível mais baixo, sem muitas facilidades prontas, o C é ótimo para isso.
@@ -29,7 +33,7 @@ O executável para Windows (10 ou superior) está disponível em **Releases**. C
 Se preferir, você pode compilar o código você mesmo com o GCC:
 
 ```
-gcc Tetris.c -o tetris.exe -static
+gcc tetris-terminal.c -o tetris-terminal.exe -static
 ```
 
 ## Autor
